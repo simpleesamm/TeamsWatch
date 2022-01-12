@@ -1,0 +1,1424 @@
+1694,2140
+149,222
+866,1959
+459,360
+438,51
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotnah16_12\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22080)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotzdcmox8_\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21380)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshototts87fs\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19500)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotvruxme0e\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22356)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotfq7hub2d\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=9160)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotmfxjjbdt\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20916)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot32wz7eqp\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=2516)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotz1i6qruj\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20308)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotkhqm3akk\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21472)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoteqtprdsc\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21700)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotoh_mk71f\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=9412)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotp8vx3hu0\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=12804)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotpvpb1gsc\\screenshot.png', '--backend', 'pil', '--debug']
+process was started (pid=11652)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+Entering: send_photo
+{'date': 1641969670, 'new_chat_photo': [], 'new_chat_members': [], 'chat': {'first_name': 'Samuel', 'last_name': 'Lee', 'username': 'simpleesamm', 'id': 250828665, 'type': 'private'}, 'caption_entities': [], 'channel_chat_created': False, 'delete_chat_photo': False, 'group_chat_created': False, 'entities': [], 'message_id': 100, 'supergroup_chat_created': False, 'photo': [{'file_id': 'AgACAgUAAxkDAANkYd54BWibc4vWUCdi74c3EY-56JEAAtiuMRuplPBWME8nkroUV_gBAAMCAANzAAMjBA', 'width': 90, 'height': 51, 'file_unique_id': 'AQAD2K4xG6mU8FZ4', 'file_size': 796}, {'file_id': 'AgACAgUAAxkDAANkYd54BWibc4vWUCdi74c3EY-56JEAAtiuMRuplPBWME8nkroUV_gBAAMCAANtAAMjBA', 'width': 320, 'height': 180, 'file_unique_id': 'AQAD2K4xG6mU8FZy', 'file_size': 8239}, {'file_id': 'AgACAgUAAxkDAANkYd54BWibc4vWUCdi74c3EY-56JEAAtiuMRuplPBWME8nkroUV_gBAAMCAAN4AAMjBA', 'width': 800, 'height': 450, 'file_unique_id': 'AQAD2K4xG6mU8FZ9', 'file_size': 31067}, {'file_id': 'AgACAgUAAxkDAANkYd54BWibc4vWUCdi74c3EY-56JEAAtiuMRuplPBWME8nkroUV_gBAAMCAAN5AAMjBA', 'width': 1280, 'height': 720, 'file_unique_id': 'AQAD2K4xG6mU8FZ-', 'file_size': 57696}, {'file_id': 'AgACAgUAAxkDAANkYd54BWibc4vWUCdi74c3EY-56JEAAtiuMRuplPBWME8nkroUV_gBAAMCAAN3AAMjBA', 'width': 2560, 'height': 1440, 'file_unique_id': 'AQAD2K4xG6mU8FZ8', 'file_size': 158414}], 'from': {'username': 'ConnectTelebot', 'first_name': 'connectTele', 'id': 5042340263, 'is_bot': True}}
+Exiting: send_photo
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotft044ihy\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=12008)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot39oyy3ih\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20628)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoto26ap45o\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21284)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotslm21kkr\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=14500)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot2b0yyqhw\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20844)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotspj3m096\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=1712)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot4v3jss8b\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=16688)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoti0ws_ff5\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21712)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotxnz3a7hb\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=16188)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotjm0nf6m_\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=5724)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotb37nneot\\screenshot.png', '--backend', 'pil', '--debug']
+process was started (pid=20988)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+Entering: send_photo
+{'date': 1641969702, 'new_chat_photo': [], 'new_chat_members': [], 'chat': {'first_name': 'Samuel', 'last_name': 'Lee', 'username': 'simpleesamm', 'id': 250828665, 'type': 'private'}, 'caption_entities': [], 'channel_chat_created': False, 'delete_chat_photo': False, 'group_chat_created': False, 'entities': [], 'message_id': 101, 'supergroup_chat_created': False, 'photo': [{'file_id': 'AgACAgUAAxkDAANlYd54JR7cYsW8gRqSMWcsj0IngFwAAtmuMRuplPBW0BEQBS3AaPMBAAMCAANzAAMjBA', 'width': 90, 'height': 51, 'file_unique_id': 'AQAD2a4xG6mU8FZ4', 'file_size': 802}, {'file_id': 'AgACAgUAAxkDAANlYd54JR7cYsW8gRqSMWcsj0IngFwAAtmuMRuplPBW0BEQBS3AaPMBAAMCAANtAAMjBA', 'width': 320, 'height': 180, 'file_unique_id': 'AQAD2a4xG6mU8FZy', 'file_size': 8360}, {'file_id': 'AgACAgUAAxkDAANlYd54JR7cYsW8gRqSMWcsj0IngFwAAtmuMRuplPBW0BEQBS3AaPMBAAMCAAN4AAMjBA', 'width': 800, 'height': 450, 'file_unique_id': 'AQAD2a4xG6mU8FZ9', 'file_size': 31824}, {'file_id': 'AgACAgUAAxkDAANlYd54JR7cYsW8gRqSMWcsj0IngFwAAtmuMRuplPBW0BEQBS3AaPMBAAMCAAN5AAMjBA', 'width': 1280, 'height': 720, 'file_unique_id': 'AQAD2a4xG6mU8FZ-', 'file_size': 58727}, {'file_id': 'AgACAgUAAxkDAANlYd54JR7cYsW8gRqSMWcsj0IngFwAAtmuMRuplPBW0BEQBS3AaPMBAAMCAAN3AAMjBA', 'width': 2560, 'height': 1440, 'file_unique_id': 'AQAD2a4xG6mU8FZ8', 'file_size': 162284}], 'from': {'username': 'ConnectTelebot', 'first_name': 'connectTele', 'id': 5042340263, 'is_bot': True}}
+Exiting: send_photo
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot_rxsofr0\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22208)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotym6sdjsp\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21636)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot164j5f9d\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=2708)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotp_xb6l8n\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22364)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotlr9f44sk\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=15024)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotn6vyppf5\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22276)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotxi4ttv6b\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20080)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshota3qz1832\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21364)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoto_mlghe5\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=6972)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotkidbid3e\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20944)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotv90thcsi\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=17292)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotlxuh8ty3\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=1416)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotir75nt6g\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19580)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot01ub0w3n\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20708)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotu0dpq86_\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22412)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot_3sxqz3b\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=5128)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotjlw16nem\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19548)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotvvqe0cc2\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=520)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotyh6ldi8p\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=9972)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotux2zaeex\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19480)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotzc3jwjew\\screenshot.png', '--backend', 'pil', '--debug']
+process was started (pid=21988)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+Entering: send_photo
+{'date': 1641969758, 'new_chat_photo': [], 'new_chat_members': [], 'chat': {'first_name': 'Samuel', 'last_name': 'Lee', 'username': 'simpleesamm', 'id': 250828665, 'type': 'private'}, 'caption_entities': [], 'channel_chat_created': False, 'delete_chat_photo': False, 'group_chat_created': False, 'entities': [], 'message_id': 102, 'supergroup_chat_created': False, 'photo': [{'file_id': 'AgACAgUAAxkDAANmYd54XlPjDSrYwojZe_EOabuZc3UAAtquMRuplPBW_e4GzYTq3mABAAMCAANzAAMjBA', 'width': 90, 'height': 51, 'file_unique_id': 'AQAD2q4xG6mU8FZ4', 'file_size': 858}, {'file_id': 'AgACAgUAAxkDAANmYd54XlPjDSrYwojZe_EOabuZc3UAAtquMRuplPBW_e4GzYTq3mABAAMCAANtAAMjBA', 'width': 320, 'height': 180, 'file_unique_id': 'AQAD2q4xG6mU8FZy', 'file_size': 9000}, {'file_id': 'AgACAgUAAxkDAANmYd54XlPjDSrYwojZe_EOabuZc3UAAtquMRuplPBW_e4GzYTq3mABAAMCAAN4AAMjBA', 'width': 800, 'height': 450, 'file_unique_id': 'AQAD2q4xG6mU8FZ9', 'file_size': 35008}, {'file_id': 'AgACAgUAAxkDAANmYd54XlPjDSrYwojZe_EOabuZc3UAAtquMRuplPBW_e4GzYTq3mABAAMCAAN5AAMjBA', 'width': 1280, 'height': 720, 'file_unique_id': 'AQAD2q4xG6mU8FZ-', 'file_size': 65925}, {'file_id': 'AgACAgUAAxkDAANmYd54XlPjDSrYwojZe_EOabuZc3UAAtquMRuplPBW_e4GzYTq3mABAAMCAAN3AAMjBA', 'width': 2560, 'height': 1440, 'file_unique_id': 'AQAD2q4xG6mU8FZ8', 'file_size': 181896}], 'from': {'username': 'ConnectTelebot', 'first_name': 'connectTele', 'id': 5042340263, 'is_bot': True}}
+Exiting: send_photo
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoto9n1_c5a\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21408)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotcqwydrfp\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22236)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoto0klsxos\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22232)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotfunz0rsa\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19052)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotdcv6b2qx\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=9532)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshottsezlpxx\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=7056)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot70_bz779\\screenshot.png', '--backend', 'pil', '--debug']
+process was started (pid=18084)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+Entering: send_photo
+{'date': 1641969780, 'new_chat_photo': [], 'new_chat_members': [], 'chat': {'first_name': 'Samuel', 'last_name': 'Lee', 'username': 'simpleesamm', 'id': 250828665, 'type': 'private'}, 'caption_entities': [], 'channel_chat_created': False, 'delete_chat_photo': False, 'group_chat_created': False, 'entities': [], 'message_id': 103, 'supergroup_chat_created': False, 'photo': [{'file_id': 'AgACAgUAAxkDAANnYd54dIXT1UauSGeRpu5alGyK0vYAAtuuMRuplPBWXjZzCsQf05sBAAMCAANzAAMjBA', 'width': 90, 'height': 51, 'file_unique_id': 'AQAD264xG6mU8FZ4', 'file_size': 811}, {'file_id': 'AgACAgUAAxkDAANnYd54dIXT1UauSGeRpu5alGyK0vYAAtuuMRuplPBWXjZzCsQf05sBAAMCAANtAAMjBA', 'width': 320, 'height': 180, 'file_unique_id': 'AQAD264xG6mU8FZy', 'file_size': 8361}, {'file_id': 'AgACAgUAAxkDAANnYd54dIXT1UauSGeRpu5alGyK0vYAAtuuMRuplPBWXjZzCsQf05sBAAMCAAN4AAMjBA', 'width': 800, 'height': 450, 'file_unique_id': 'AQAD264xG6mU8FZ9', 'file_size': 31898}, {'file_id': 'AgACAgUAAxkDAANnYd54dIXT1UauSGeRpu5alGyK0vYAAtuuMRuplPBWXjZzCsQf05sBAAMCAAN5AAMjBA', 'width': 1280, 'height': 720, 'file_unique_id': 'AQAD264xG6mU8FZ-', 'file_size': 58920}, {'file_id': 'AgACAgUAAxkDAANnYd54dIXT1UauSGeRpu5alGyK0vYAAtuuMRuplPBWXjZzCsQf05sBAAMCAAN3AAMjBA', 'width': 2560, 'height': 1440, 'file_unique_id': 'AQAD264xG6mU8FZ8', 'file_size': 162672}], 'from': {'username': 'ConnectTelebot', 'first_name': 'connectTele', 'id': 5042340263, 'is_bot': True}}
+Exiting: send_photo
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotb6gavafb\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=14140)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot29ebzcie\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=12452)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotuo8klje_\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20944)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotz2b9jtt5\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20508)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotej0brvk5\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20708)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotxr6_9jv1\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=1948)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotrrt5n5hl\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=9412)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot76z9j_4k\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21080)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotuypq2fpr\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=3772)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotl7779yc1\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=5756)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot9k0v58qb\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=16964)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoty5aplvir\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=1808)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshothrrol1pz\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=15620)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot2aa5u42m\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20848)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot573exw90\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19976)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotoa59oiz9\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=468)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotzusgkz_5\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22420)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotj_hpnr5b\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20932)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotvzuhbqfm\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20156)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoteecivkj8\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20996)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotd2sa2cgf\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=10764)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot4amvbpiq\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=15024)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotdg3zgegq\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=3048)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotji5fy3aq\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=2712)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotn73okxhe\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=15120)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotd807b1uk\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=1416)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotqfbnlrw0\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22036)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotlup7pu96\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22236)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot2e9fm54t\\screenshot.png', '--backend', 'pil', '--debug']
+process was started (pid=13416)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+Entering: send_photo
+{'date': 1641969854, 'new_chat_photo': [], 'new_chat_members': [], 'chat': {'first_name': 'Samuel', 'last_name': 'Lee', 'username': 'simpleesamm', 'id': 250828665, 'type': 'private'}, 'caption_entities': [], 'channel_chat_created': False, 'delete_chat_photo': False, 'group_chat_created': False, 'entities': [], 'message_id': 104, 'supergroup_chat_created': False, 'photo': [{'file_id': 'AgACAgUAAxkDAANoYd54vuWltXbeKAABDeSR0h9JKf6uAALdrjEbqZTwVtjv2FmwLWZDAQADAgADcwADIwQ', 'width': 90, 'height': 51, 'file_unique_id': 'AQAD3a4xG6mU8FZ4', 'file_size': 815}, {'file_id': 'AgACAgUAAxkDAANoYd54vuWltXbeKAABDeSR0h9JKf6uAALdrjEbqZTwVtjv2FmwLWZDAQADAgADbQADIwQ', 'width': 320, 'height': 180, 'file_unique_id': 'AQAD3a4xG6mU8FZy', 'file_size': 8454}, {'file_id': 'AgACAgUAAxkDAANoYd54vuWltXbeKAABDeSR0h9JKf6uAALdrjEbqZTwVtjv2FmwLWZDAQADAgADeAADIwQ', 'width': 800, 'height': 450, 'file_unique_id': 'AQAD3a4xG6mU8FZ9', 'file_size': 32203}, {'file_id': 'AgACAgUAAxkDAANoYd54vuWltXbeKAABDeSR0h9JKf6uAALdrjEbqZTwVtjv2FmwLWZDAQADAgADeQADIwQ', 'width': 1280, 'height': 720, 'file_unique_id': 'AQAD3a4xG6mU8FZ-', 'file_size': 60187}, {'file_id': 'AgACAgUAAxkDAANoYd54vuWltXbeKAABDeSR0h9JKf6uAALdrjEbqZTwVtjv2FmwLWZDAQADAgADdwADIwQ', 'width': 2560, 'height': 1440, 'file_unique_id': 'AQAD3a4xG6mU8FZ8', 'file_size': 164357}], 'from': {'username': 'ConnectTelebot', 'first_name': 'connectTele', 'id': 5042340263, 'is_bot': True}}
+Exiting: send_photo
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot4un9ipc3\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22292)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot46hlviet\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20780)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotaguewo3m\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=1712)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotar91hpvc\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=16904)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotxwm1guca\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=11672)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot8l29mjlk\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19204)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotciwdh47l\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=14528)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot1p71f5sx\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=4436)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotobln55p9\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=10084)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotwuiv8iv1\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21084)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotva3pbx0f\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=8904)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot5ebvudvr\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22328)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot_sbub4b7\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=3048)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotfwqo10eg\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=612)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotkl26fhig\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=3512)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotjmfsyp6l\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=11712)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot8707yhjm\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21684)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot73c7wmyb\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=2516)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot_zsmhyt0\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20748)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotnb5q57ua\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22332)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot74hfyioo\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=15964)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotc2dxaktd\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22460)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotqru23i2j\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=4472)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotyk_y7gdx\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20432)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoto59w_jyq\\screenshot.png', '--backend', 'pil', '--debug']
+process was started (pid=12204)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+Entering: send_photo
+{'date': 1641969919, 'new_chat_photo': [], 'new_chat_members': [], 'chat': {'first_name': 'Samuel', 'last_name': 'Lee', 'username': 'simpleesamm', 'id': 250828665, 'type': 'private'}, 'caption_entities': [], 'channel_chat_created': False, 'delete_chat_photo': False, 'group_chat_created': False, 'entities': [], 'message_id': 105, 'supergroup_chat_created': False, 'photo': [{'file_id': 'AgACAgUAAxkDAANpYd54_2yGtYjpcyUDRBAeM2BZh0kAAt6uMRuplPBW312saW4MS1oBAAMCAANzAAMjBA', 'width': 90, 'height': 51, 'file_unique_id': 'AQAD3q4xG6mU8FZ4', 'file_size': 818}, {'file_id': 'AgACAgUAAxkDAANpYd54_2yGtYjpcyUDRBAeM2BZh0kAAt6uMRuplPBW312saW4MS1oBAAMCAANtAAMjBA', 'width': 320, 'height': 180, 'file_unique_id': 'AQAD3q4xG6mU8FZy', 'file_size': 8443}, {'file_id': 'AgACAgUAAxkDAANpYd54_2yGtYjpcyUDRBAeM2BZh0kAAt6uMRuplPBW312saW4MS1oBAAMCAAN4AAMjBA', 'width': 800, 'height': 450, 'file_unique_id': 'AQAD3q4xG6mU8FZ9', 'file_size': 32128}, {'file_id': 'AgACAgUAAxkDAANpYd54_2yGtYjpcyUDRBAeM2BZh0kAAt6uMRuplPBW312saW4MS1oBAAMCAAN5AAMjBA', 'width': 1280, 'height': 720, 'file_unique_id': 'AQAD3q4xG6mU8FZ-', 'file_size': 60331}, {'file_id': 'AgACAgUAAxkDAANpYd54_2yGtYjpcyUDRBAeM2BZh0kAAt6uMRuplPBW312saW4MS1oBAAMCAAN3AAMjBA', 'width': 2560, 'height': 1440, 'file_unique_id': 'AQAD3q4xG6mU8FZ8', 'file_size': 164541}], 'from': {'username': 'ConnectTelebot', 'first_name': 'connectTele', 'id': 5042340263, 'is_bot': True}}
+Exiting: send_photo
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotpadw46o3\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=9412)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot3by8t17y\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=6384)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotuw_z3tcf\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=2768)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotk3pji6hu\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21248)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotwrai94jv\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=11748)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshota8_i3axq\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21428)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotrs242mb0\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=18084)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotzaniomcs\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21160)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotx5doym1i\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=18516)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoty1tsnqmc\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=520)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshott539cb6t\\screenshot.png', '--backend', 'pil', '--debug']
+process was started (pid=19880)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+Entering: send_photo
+{'date': 1641969951, 'new_chat_photo': [], 'new_chat_members': [], 'chat': {'first_name': 'Samuel', 'last_name': 'Lee', 'username': 'simpleesamm', 'id': 250828665, 'type': 'private'}, 'caption_entities': [], 'channel_chat_created': False, 'delete_chat_photo': False, 'group_chat_created': False, 'entities': [], 'message_id': 106, 'supergroup_chat_created': False, 'photo': [{'file_id': 'AgACAgUAAxkDAANqYd55HhpCq5i6hmqBU1coOTfilV4AAt-uMRuplPBWLqMEjmqEnMkBAAMCAANzAAMjBA', 'width': 90, 'height': 51, 'file_unique_id': 'AQAD364xG6mU8FZ4', 'file_size': 826}, {'file_id': 'AgACAgUAAxkDAANqYd55HhpCq5i6hmqBU1coOTfilV4AAt-uMRuplPBWLqMEjmqEnMkBAAMCAANtAAMjBA', 'width': 320, 'height': 180, 'file_unique_id': 'AQAD364xG6mU8FZy', 'file_size': 8525}, {'file_id': 'AgACAgUAAxkDAANqYd55HhpCq5i6hmqBU1coOTfilV4AAt-uMRuplPBWLqMEjmqEnMkBAAMCAAN4AAMjBA', 'width': 800, 'height': 450, 'file_unique_id': 'AQAD364xG6mU8FZ9', 'file_size': 32427}, {'file_id': 'AgACAgUAAxkDAANqYd55HhpCq5i6hmqBU1coOTfilV4AAt-uMRuplPBWLqMEjmqEnMkBAAMCAAN5AAMjBA', 'width': 1280, 'height': 720, 'file_unique_id': 'AQAD364xG6mU8FZ-', 'file_size': 61236}, {'file_id': 'AgACAgUAAxkDAANqYd55HhpCq5i6hmqBU1coOTfilV4AAt-uMRuplPBWLqMEjmqEnMkBAAMCAAN3AAMjBA', 'width': 2560, 'height': 1440, 'file_unique_id': 'AQAD364xG6mU8FZ8', 'file_size': 167237}], 'from': {'username': 'ConnectTelebot', 'first_name': 'connectTele', 'id': 5042340263, 'is_bot': True}}
+Exiting: send_photo
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot0qy50efa\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19556)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot6ox8ckto\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22076)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotdbjvapf7\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=3000)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotbpefqp1_\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=9036)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotxsf9mef2\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=14144)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotxgmqsxpv\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21692)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot3375iaj4\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=16132)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot64u5ghtg\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=12716)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotlyyobczd\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21632)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot3hc69s7j\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21408)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotm0dwwszj\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=12128)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotas91vfo_\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19484)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot56e2nk9l\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=9516)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotzr3twzqj\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=2368)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotf5x1ynh6\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=18832)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotmnh7yxfw\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21760)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotg30lf2td\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=17016)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotbvp4w1rw\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19880)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot4h3qltfy\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19072)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot_zll17pg\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22084)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot9mh50uwp\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=2712)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotfxu0_r80\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21208)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotcrca3xzx\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21052)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot35rk5ti4\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=14660)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotxwlwieuw\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20944)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot4zsnelmn\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=5916)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotcxfakuc5\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=14984)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotglmtrfao\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=3000)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotz3yqgtlm\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=11280)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot19gtdxbs\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=3404)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotu4c1lpg3\\screenshot.png', '--backend', 'pil', '--debug']
+process was started (pid=3824)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+Entering: send_photo
+{'date': 1641970030, 'new_chat_photo': [], 'new_chat_members': [], 'chat': {'first_name': 'Samuel', 'last_name': 'Lee', 'username': 'simpleesamm', 'id': 250828665, 'type': 'private'}, 'caption_entities': [], 'channel_chat_created': False, 'delete_chat_photo': False, 'group_chat_created': False, 'entities': [], 'message_id': 107, 'supergroup_chat_created': False, 'photo': [{'file_id': 'AgACAgUAAxkDAANrYd55bl1QxJnSNG1g4-Ko50izr84AAuCuMRuplPBWHZnz-CATZAIBAAMCAANzAAMjBA', 'width': 90, 'height': 51, 'file_unique_id': 'AQAD4K4xG6mU8FZ4', 'file_size': 907}, {'file_id': 'AgACAgUAAxkDAANrYd55bl1QxJnSNG1g4-Ko50izr84AAuCuMRuplPBWHZnz-CATZAIBAAMCAANtAAMjBA', 'width': 320, 'height': 180, 'file_unique_id': 'AQAD4K4xG6mU8FZy', 'file_size': 9534}, {'file_id': 'AgACAgUAAxkDAANrYd55bl1QxJnSNG1g4-Ko50izr84AAuCuMRuplPBWHZnz-CATZAIBAAMCAAN4AAMjBA', 'width': 800, 'height': 450, 'file_unique_id': 'AQAD4K4xG6mU8FZ9', 'file_size': 36490}, {'file_id': 'AgACAgUAAxkDAANrYd55bl1QxJnSNG1g4-Ko50izr84AAuCuMRuplPBWHZnz-CATZAIBAAMCAAN5AAMjBA', 'width': 1280, 'height': 720, 'file_unique_id': 'AQAD4K4xG6mU8FZ-', 'file_size': 67870}, {'file_id': 'AgACAgUAAxkDAANrYd55bl1QxJnSNG1g4-Ko50izr84AAuCuMRuplPBWHZnz-CATZAIBAAMCAAN3AAMjBA', 'width': 2560, 'height': 1440, 'file_unique_id': 'AQAD4K4xG6mU8FZ8', 'file_size': 186393}], 'from': {'username': 'ConnectTelebot', 'first_name': 'connectTele', 'id': 5042340263, 'is_bot': True}}
+Exiting: send_photo
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotmxfkl0_8\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=4416)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotsxofjprj\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19152)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotnryrle63\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=15660)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotfq0y47v1\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19736)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotri6tca8w\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=5324)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot6l3_mvjm\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22516)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotie43oqzb\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=12324)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot9yo5ka3q\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22232)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotw3xmorwr\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21232)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotlcot8a5y\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21280)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotjsz_0x9f\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=15124)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotgr6r4d79\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21052)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotbskz8a94\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19952)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotd3mckk9e\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22448)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshothb34enx5\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21624)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotopw502nz\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20844)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshoto7uia3dp\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20696)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot7v9pjoel\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=748)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotj2uc_7gs\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=21724)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshot010o0iog\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=20432)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotgn_a1b_e\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=18408)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotxdta66fa\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22512)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshota8pi7ftk\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=644)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotg8i79o4d\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=18544)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotwp_l7vl7\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=22268)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotkmrw164o\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=19584)
+process has ended, return code=0
+stdout=
+stderr=
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 65536
+running "pil" in child process
+command: ['C:\\Users\\samue\\AppData\\Local\\Programs\\Python\\Python37\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\samue\\AppData\\Local\\Temp\\pyscreenshotf0qm0iaw\\screenshot.png', '--bbox', '149:222:866:1959', '--backend', 'pil', '--debug']
+process was started (pid=14984)
