@@ -7,7 +7,7 @@ Autoclick Teams to stay online &amp; watch the teams chat for changes forwarding
   - Watch any user specified region
   - Clicks on the latest chat or user specified position
 3. Sends screenshots of new message directly to your **telegram** via a bot (needs some setup)
-  - https://www.geeksforgeeks.org/send-message-to-telegram-user-using-python/ follow this link to setup your telegram bot
+  - https://medium.com/@robertbracco1/how-to-write-a-telegram-bot-to-send-messages-with-python-bcdf45d0a580 follow this link to setup your telegram bot
 
 ## See demo: 
 https://drive.google.com/file/d/1EBRhvVPC4b4MBBB6vNn1Mr6YMUgh7AtJ/view?usp=sharing - watching teams and auto clicker
